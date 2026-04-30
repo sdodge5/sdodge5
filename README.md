@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product & Project Management and AI Research.
 - 🌱 I’m currently learning how to use User Experience research to scale businesses and collaborate with applications to put UX and AI on the forefront of innovation.
 - 💞️ I’m looking to collaborate on application design.
-- 📫 How to reach me **www.samanthavirtually.com** or LinkedIn: [https://www.linkedin.com/in/samantha-d-ab3350160/](https://www.linkedin.com/in/samantha-d-ab3350160/)
+- 📫 How to reach me [https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90](https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90) or LinkedIn: [https://www.linkedin.com/in/samantha-d-ab3350160/](https://www.linkedin.com/in/samantha-d-ab3350160/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned how to code websites from scratch in Highschool.
 
