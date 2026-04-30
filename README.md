@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha!
-- 👀 I’m interested in Product & Project Management and User Experience Research.
-- 🌱 I’m currently learning how to use User Experience research to scale businesses and collaborate with applications to put UX on the forefront of innovation.
+- 👀 I’m interested in Product & Project Management and AI Research.
+- 🌱 I’m currently learning how to use User Experience research to scale businesses and collaborate with applications to put UX and AI on the forefront of innovation.
 - 💞️ I’m looking to collaborate on application design.
 - 📫 How to reach me **www.samanthavirtually.com** or LinkedIn: [https://www.linkedin.com/in/samantha-d-ab3350160/](https://www.linkedin.com/in/samantha-d-ab3350160/)
 - 😄 Pronouns: She/Her
