@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on application design.
 - 📫 How to reach me [https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90](https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90) or LinkedIn: [https://www.linkedin.com/in/samantha-d-ab3350160/](https://www.linkedin.com/in/samantha-d-ab3350160/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I learned how to code websites from scratch in Highschool.
+- ⚡ Fun fact: I learned how to code by developing custom Tumblr pages when I was in highschool.
 
 - Samantha is a strategic and analytical Filipina-American professional with over 8 years of success in building a variety of digital strategies. With a focus on product management and a passion for leveraging diverse skill sets, she is an expert storyteller who brings her clients' visions to life through her creative experience. Samantha has been a 5-Star Rated Freelancer since 2020. She is passionate about User Experience and creating applications and features that help people use and understand apps better. 
 
