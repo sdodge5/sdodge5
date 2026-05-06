@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned how to code by developing custom Tumblr pages when I was in highschool.
 
-- Samantha is a strategic and analytical Filipina-American professional with over 8 years of success in building a variety of digital strategies. With a focus on product management and a passion for leveraging diverse skill sets, she is an expert storyteller who brings her clients' visions to life through her creative experience. Samantha has been a 5-Star Rated Freelancer since 2020. She is passionate about User Experience and creating applications and features that help people use and understand apps better. 
+- About Me: Samantha is a strategic and analytical Filipina-American professional with over 8 years of success in building a variety of digital strategies. With a focus on product management and a passion for leveraging diverse skill sets, she is an expert storyteller who brings her clients' visions to life through her creative experience. Samantha has been a 5-Star Rated Freelancer since 2020. She is passionate about User Experience and creating applications and features that help people use and understand apps better. 
 
 At the heart of Samantha's approach is her passion for design, art, marketing, planning, and strategic project management. This unique blend of interests makes her a true change agent within her industry and community. Her professional achievements underscore her dedication and success.
 
