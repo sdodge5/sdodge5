@@ -6,7 +6,7 @@
 
 * 🌍 I'm based in sunny Florida 🇺🇸
 * ✉️ You can contact me on [my Professional Workfolio](https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90)
-* ❓ Ask me a question about automation strategies at [my LinkedIn](https://www.linkedin.com/in/samantha-d-ab3350160/](https://www.linkedin.com/in/samantha-d-ab3350160/)
+* ❓ Ask me a question about automation strategies at [my LinkedIn](https://www.linkedin.com/in/samantha-d-ab3350160/)
 * 🧠 Languages I am working to master: Python
 * 🌟 Fun fact: I learned how to code by developing custom Tumblr pages when I was in middle school.
 * 🤔 Other software related interests: 🤖 AI & LLMs, 🧪 AI-powered IDEs and CDPs, software architecture.
