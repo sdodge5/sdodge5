@@ -22,6 +22,14 @@
   <img src="https://img.shields.io/badge/⭐_View_Stars-f4b400?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
+<a href="https://www.notion.so/Samantha-s-Portfolio-23e8c17f06ca80b281fbe5d863b53a90">
+  <img src="https://img.shields.io/badge/📁_View_Portfolio-2f2f2f?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/samantha-d-ab3350160/">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ---
 
 ### ✨ About me
