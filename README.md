@@ -42,9 +42,9 @@ At the core of my work is a balance of analytical thinking and creative problem 
 
 ---
 
-### 🎬 Latest Professional Projects
+## 🎬 Latest Professional Projects
 
-## 🔄 Klaviyo Cross-Account Deduplication
+### 🔄 Klaviyo Cross-Account Deduplication
 
 ![Python](https://img.shields.io/badge/Python-gray?style=flat-square)
 ![Klaviyo API](https://img.shields.io/badge/Klaviyo_API-gray?style=flat-square)
@@ -54,7 +54,7 @@ Automated system to detect and suppress duplicate customer profiles across multi
 
 → [View Project](https://www.notion.so/...)
 
-## 💬 Support Agent Demo Module
+### 💬 Support Agent Demo Module
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-gray?style=flat-square)
 ![Automation](https://img.shields.io/badge/Workflow_Automation-gray?style=flat-square)
@@ -64,7 +64,7 @@ AI support agent system for intelligent responses, knowledge handling, and ticke
 
 → [View Project](https://www.notion.so/Support-Agent-Demo-Module-3538c17f06ca80a09785de970a27d0af)
 
-## 🎙️ ElevenLabs AI Agent Lead Capture
+### 🎙️ ElevenLabs AI Agent Lead Capture
 
 ![Voice AI](https://img.shields.io/badge/Voice_AI-gray?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-gray?style=flat-square)
