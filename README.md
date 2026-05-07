@@ -1,6 +1,6 @@
 # ⚛️ Samantha Dodge
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=250&color=8934ab&width=435&lines=Building+Smarter+Systems;Making+Teams+Faster;Designing+Lighter+Workflows" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=250&color=8934ab&width=435&lines=Building+Smarter+Systems;Making+Teams+Faster;Designing+Lighter+Workflows" alt="Typing SVG" /></a>
 
 **`CRM Strategist and Technical Product Manager`**
 
