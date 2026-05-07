@@ -52,7 +52,7 @@ At the core of my work is a balance of analytical thinking and creative problem 
 
 Automated system to detect and suppress duplicate customer profiles across multiple Klaviyo accounts.
 
-→ [View Project](https://www.notion.so/...)
+→ [View Project](https://www.notion.so/Klaviyo-Cross-Account-Deduplication-3538c17f06ca80d9bdb4ff9e3e3c7955?pvs=23)
 
 ### 💬 Support Agent Demo Module
 
