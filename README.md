@@ -34,9 +34,9 @@
 
 I’m a Filipina-American technical strategist specializing in building systems that improve how teams operate internally. With 8+ years of experience across MarTech, product/project management, and technical strategy, I focus on designing automation and scalable processes that reduce friction and unlock team productivity.
 
-Rather than just managing projects, I architect the systems behind them. I leverage tools like critical thinking, LLMs, automation best practices, and custom workflows to streamline operations and eliminate operational inefficiency across the software development lifecycle.
+I can manage projects, but intenrally, I can architect the systems behind them. I leverage skills and tools like critical thinking, LLMs, automation best practices, and custom workflows to streamline operations and eliminate operational inefficiency across the software development lifecycle.
 
-At the core of my work is a balance of analytical thinking and creative problem solving. I love building strategy, technology, and user experience to build solutions that are not only functional, but intuitive and impactful.
+My overall goal for my work is to balance analytical thinking and creative problem solving. I love building strategy, technology, and user experience to build solutions that are not only functional, but intuitive and impactful.
 
 ---
 
